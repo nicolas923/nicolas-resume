@@ -31,6 +31,9 @@ CloudEdge是华为面向通信云化的NFV产品。
 
 熟悉云操作系统OpenStack架构及其主要组件Nova、Neutron、Cinder等，熟练运用Linux Shell编写测试用例，以及Python脚本编写自动化脚本及工具。
 
+IaaS：熟悉虚拟化技术，对Docker容器技术有一定了解
+
+PaaS：熟悉分布式，对ZooKeeper、ETCD有一定了解
 
 ## 中兴通讯技术有限公司 测试工程师 （ 2010年10月 ~ 2013年12月 ）
 
@@ -51,6 +54,15 @@ CloudEdge是华为面向通信云化的NFV产品。
 ### 中标office办公软件
 本人在此项目中主要负责办公软件的功能性、兼容性、性能等方面的测试工作，bug的生命周期管理，部分的需求管理以及对外的培训工作等。
 
+
+---
+
+## 技术栈
+Python、Web开发( Flask )、Web测试( Selenium )
+
+Linux Shell
+
+软件测试
 
 ---
 
